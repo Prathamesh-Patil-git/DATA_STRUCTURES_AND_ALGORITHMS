@@ -1,0 +1,9 @@
+# Compiled files
+*.class
+*.exe
+
+# VS Code
+.vscode/
+
+# Temp files
+tempCodeRunnerFile.*
