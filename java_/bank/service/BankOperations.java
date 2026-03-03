@@ -1,4 +1,4 @@
-package java.bank.service;
+package java_.bank.service;
 
 public interface BankOperations {
     void deposit(double amount);

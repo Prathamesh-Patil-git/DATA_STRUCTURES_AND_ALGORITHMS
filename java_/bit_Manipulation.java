@@ -1,4 +1,3 @@
-
 public class bit_Manipulation {
 
     public static void main(String[] args) {
