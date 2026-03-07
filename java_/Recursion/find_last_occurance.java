@@ -22,7 +22,7 @@ public class find_last_occurance {
     public static void main(String[] args) {
 
         int arr[] = {1,2,3,4,3,5};
-        int key = 3;
+        int key =  3; 
         
         System.out.print(last_occurance(arr, key, 0));
     }
