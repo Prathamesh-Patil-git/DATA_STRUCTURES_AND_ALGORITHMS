@@ -1,3 +1,5 @@
+package java_.Divide_and_Conqure;
+
 public class Merge_sort {
 
     public static void merge( int st , int mid , int end, int arr[] ) {
