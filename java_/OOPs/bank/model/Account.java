@@ -1,8 +1,8 @@
- package java_.bank.model;
+ package java_.OOPs.bank.model;
 
- import java_.bank.service.BankOperations;
+import java_.OOPs.bank.service.BankOperations;
 
- public abstract class Account implements BankOperations{
+public abstract class Account implements BankOperations{
     
     private int accountNumber;
     private String accountHolderName;

@@ -1,4 +1,4 @@
-package java_.bank.model;
+package java_.OOPs.bank.model;
 
 public class SavingsAccount extends Account{
 

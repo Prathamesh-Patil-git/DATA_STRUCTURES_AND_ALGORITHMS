@@ -1,4 +1,4 @@
-package java_.Divide_and_Conqure;
+// package java_.Divide_and_Conqure;
 
 public class Merge_sort {
 
