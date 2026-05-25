@@ -8,7 +8,6 @@ public class selection_sort {
 
                 if(arr[j] < arr[smallest]){
                     smallest = j;
-                    
                 }
             }
 
