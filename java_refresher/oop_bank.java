@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class opps_practice {
+public class oop_bank {
     
     public static void main(String[] args) {
 
